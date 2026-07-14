@@ -1,7 +1,8 @@
 {
-  "name": "serendib-pay-qa-sandbox",
+  "name": "paygate-qa-sandbox",
+  "description": "PayGate QA Sandbox - A comprehensive payment gateway testing platform with intentional bugs, test scenarios, and real-world validation workflows for QA practice and learning.",
   "private": true,
-  "version": "1.0.0",
+  "version": "2.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
